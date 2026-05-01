@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180 70" role="img" aria-labelledby="title desc">
+  <title id="title">Enfermagem</title>
+  <desc id="desc">Logo parceiro de enfermagem com cruz e folhas.</desc>
+  <rect width="180" height="70" rx="10" fill="#fff"/>
+  <circle cx="35" cy="35" r="22" fill="#f7d9dd"/>
+  <path d="M32 20h8v12h12v8H40v12h-8V40H20v-8h12z" fill="#a31621"/>
+  <path d="M55 47c20-20 42-24 76-12-29 1-50 7-76 12z" fill="#2d6a4f"/>
+  <text x="72" y="29" font-family="Georgia, serif" font-size="16" font-weight="700" fill="#1d3557">Cuidado</text>
+  <text x="72" y="47" font-family="Arial, sans-serif" font-size="12" fill="#333">Enfermagem</text>
+</svg>

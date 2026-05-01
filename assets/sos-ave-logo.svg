@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 86" role="img" aria-labelledby="title desc">
+  <title id="title">SOS AVE</title>
+  <desc id="desc">Logotipo SOS AVE com coração, cérebro e sinal de emergência.</desc>
+  <rect width="240" height="86" rx="18" fill="#ffffff"/>
+  <path d="M45 64C27 51 18 42 18 29c0-10 7-18 17-18 6 0 11 3 14 8 3-5 8-8 14-8 10 0 17 8 17 18 0 13-9 22-27 35l-4 3-4-3z" fill="#a31621"/>
+  <path d="M51 29c8 0 15 7 15 15 0 6-3 11-8 14M43 29c-8 0-15 7-15 15 0 6 3 11 8 14" fill="none" stroke="#fff" stroke-width="5" stroke-linecap="round"/>
+  <path d="M92 23h14l7 16 7-16h14l-17 38h-8L92 23z" fill="#1d3557"/>
+  <text x="91" y="61" font-family="Arial, Helvetica, sans-serif" font-weight="800" font-size="38" fill="#a31621">SOS</text>
+  <text x="163" y="61" font-family="Arial, Helvetica, sans-serif" font-weight="800" font-size="38" fill="#1d3557">AVE</text>
+</svg>

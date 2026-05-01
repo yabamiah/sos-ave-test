@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180 70" role="img" aria-labelledby="title desc">
+  <title id="title">Universidade de Brasília</title>
+  <desc id="desc">Marca textual simplificada da Universidade de Brasília.</desc>
+  <rect width="180" height="70" rx="10" fill="#fff"/>
+  <path d="M20 14h28v42H20z" fill="#0f5132"/>
+  <path d="M28 22h12v26H28z" fill="#fff"/>
+  <text x="60" y="33" font-family="Georgia, serif" font-size="22" font-weight="700" fill="#0f5132">UnB</text>
+  <text x="60" y="50" font-family="Arial, sans-serif" font-size="10" fill="#333">Universidade de Brasilia</text>
+</svg>
