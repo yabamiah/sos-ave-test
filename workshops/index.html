@@ -9,6 +9,7 @@
   <link rel="stylesheet" href="../styles.css">
 </head>
 <body>
+  <a class="skip-link" href="#conteudo">Pular para o conteúdo</a>
   <header class="site-header">
     <nav class="nav" aria-label="Navegação principal">
       <a class="brand" href="../"><img src="../logo.png" alt="SOS AVE"></a>
@@ -23,7 +24,7 @@
       </div>
     </nav>
   </header>
-  <main>
+  <main id="conteudo">
     <section class="section">
       <span class="eyebrow">Emergência</span>
       <h1 style="color:var(--ink)">ONDE BUSCAR AJUDA</h1>
@@ -101,6 +102,16 @@
       <p class="copyright">© 2025 by SOS AVE</p>
     </div>
   </footer>
+  <div vw class="enabled">
+    <div vw-access-button class="active"></div>
+    <div vw-plugin-wrapper>
+      <div class="vw-plugin-top-wrapper"></div>
+    </div>
+  </div>
+  <script src="https://vlibras.gov.br/app/vlibras-plugin.js"></script>
+  <script>
+    new window.VLibras.Widget("https://vlibras.gov.br/app");
+  </script>
   <script src="../script.js"></script>
 </body>
 </html>
